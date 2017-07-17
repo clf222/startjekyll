@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-About content goes here.
+I am a UI\\UX Designer in Baltimore, Maryland.
 
-* A list item
-* Another list item
+I like:
+* Live music
+* Spending time with friends
+* Sketch
+* Practicing code. That's what this is all about.
